@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-int printNum(int num)
+int printNum(int num = 1, int maxNum = 100)
 {
     using namespace std;
     string str;                 // local variable, destroyed after usage
@@ -25,5 +25,5 @@ int printNum(int num)
 
 int main()
 {
-    printNum(1);                // num is passed by value.
+    printNum();                // num is passed by value.
 }

@@ -35,6 +35,6 @@ int printNum(int num)
 Run the following line on command prompt.
 
 ```shell
-.\Question1.ex
+.\Question1.exe
 ```
 
