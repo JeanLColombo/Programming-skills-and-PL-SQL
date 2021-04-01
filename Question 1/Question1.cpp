@@ -17,7 +17,7 @@ int printNum(int num = 1, int maxNum = 100)
     else    
         cout << str << endl;    // Print str otherwise.
 
-    if (num >= 100)
+    if (num >= maxNum)
         return 0;
     else
         return printNum(++num);
