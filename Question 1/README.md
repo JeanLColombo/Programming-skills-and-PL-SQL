@@ -7,7 +7,7 @@
 For this question, we implemented a function called `printNum(int)`:
 
 ```c++
-int printNum(int num)
+int printNum(int num = 1, int maxNum = 100)
 {
     using namespace std;
     string str;                 // local variable, destroyed after usage
