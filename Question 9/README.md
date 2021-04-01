@@ -38,7 +38,7 @@ void userInterface()                // User interface, for acquiring the string.
 
 ## Usage
 
-Run the following line on command prompt.
+Compile, and then run the following line on command prompt.
 
 ```shell
 .\Question9.exe

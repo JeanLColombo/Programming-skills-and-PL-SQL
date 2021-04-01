@@ -32,7 +32,7 @@ int printNum(int num)
 
 ## Usage
 
-Run the following line on command prompt.
+Compile, and then run the following line on command prompt.
 
 ```shell
 .\Question1.exe
