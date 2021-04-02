@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "sstream": "cpp",
+        "xstring": "cpp"
+    },
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "local",
+            "database": "siemens_test",
+            "username": "postgres",
+            "password": "admin"
+        }
+    ]
+}
