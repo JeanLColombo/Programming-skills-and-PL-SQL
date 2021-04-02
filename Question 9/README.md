@@ -27,7 +27,8 @@ void userInterface()                // User interface, for acquiring the string.
 
     cout << 
         "Please, insert a string here:\t";
-    cin >> userString;
+
+    getline(cin, userString);
 
     cout << 
         "String size:\t" 
